@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blazehackerapi",
+  "private_key_id": "61af0f6ceb72a8f4fd7a3bdc82263d035fb5d44f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCbYoE+3E71XAQ\nNX3AC7MQTPOpA5sLKhcOE0Dj9gA7P90LQhcSSNNvg8dVe2RvFUXYYuQ0Jmw1JCz5\nrvtvvL0AaXBb9/c8Bjd8Gwb4VadfIrMzORn78BO3QzBhAeLOnwGoj1A+BVPMSo3e\nCNgT6CsdC8OQ8U4w9WHbHPVjk549cHdCc1jgGd0joG2VpAa+lRdVMVV/SzlXrM+q\nw8tE+XVCjCET/5XtFoW8YLnGQvURSAH47F6xmgWDAPY3ifALdZhiw4omF9VMVAQy\ngZeIdGVEanHCkJNwKpsA70dw7Z1vKh5jWLa2rdwgQNgWuS79NdiVRlJIkoZ4uKht\nYizkFEzRAgMBAAECggEABStxoEzJl72cNMjLVBmA3yCArmrgCusJVmXjfjw6s4NG\nSXKY152z8N2NkGO5yayvNlVOJpHVTjts7mL9S10MHyWZPSTJ1Yt/xa8X9MSdm5gP\nW5UQ2w6o44un5BMaA1md1cF2cNO7mkLAOhoSRBiSruYdbYObteMMa/hS5l0qN7ge\nLKvdfOPHraV2gsprh03ow/R1sdHyeH8ZkPGpnbQjwhE8WQL2aC2J7tbCQJcxdtQ2\n8fGU75jU0uK9VsjDYuJhiaaN5ExMFQAB4WXVhawV0Unu9/qiv3km25CvalpAijbu\ncII0OB1Zy8WnbuSAmj/i2AzWPbFqOLWtW+HAP3RYrQKBgQDy+1haYEJUDK9tMGYg\nbhir2OcGcCT4+l1kZgBqWvy8t2sCcNmB018nimuqb8WV9yM+XhEwHQo0/OZ4aHJn\neXtt4tkkd+rP0lc7rYUVM7FiBitHiHaYLSaoHmGwfW2TShc4Tqevr4sa3b5+q75R\nvs8MUCBdeE271xnB4I0exQLydQKBgQDM2D67DjSqVqRj5p3xbAc5yguOl7dzur7s\n68bPUrH8pEzyk9Mfvy4EUUUAWdC/BIvafLMFLMS818y4LVGPy8h5NqGu/0D1E7ni\nU/xDhuDism01FieilisDtfjr2K1QwFwyE/XbdaAB5MbaFAgsIhxy1jfZPUa549R8\n0QGMoNKtbQKBgGM7jRjTySLkT1yrcHn8HK1KFwfFEwRv02ZmVfMZl7BGxDgp+FqS\nBYFzgYcIwMv/M3CMID7jDUEYq9Mu7NIfhe4ZwA6pvscDI0cnFXvUMbRTyqcbLzv0\n7J2qUsEuaGrHznXbgZY5ffkJ6Ht5Dm/6GjrwGleyAyUcstNALsILOanlAoGAGtb+\nqS28UtFVas2NxlM8QyMpDn7sh5phZ9Og0gtozMyOVH5v/EnlcqVfYCNkiZLD7FXI\ncxYhlQjFhyBQ/oFZ/B/fYXmKflIeWfxdIk/q6Wkti/YiLVh1vF+8hNJ4Kwt5SQp6\nfU3VMEpUj8BuLbIufhF5cdpoiPTEI7KS/GUaFaUCgYEArMNWjif4QF9Z2C4+zZS1\ng8w9I8sAU9LFcjftVyFl1WDvLeNnMBHkgPykOliemHw7AgDlyf5IryYYPHj3SgLt\nlFNIY8Lg0icWefuV8zrGg0hGWG54s7v8SykyI+bE6NQZSiaFwoUmj61XCK9L0vgP\n4THcWBkP5WbnmPZrd11BdAY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-cooge@blazehackerapi.iam.gserviceaccount.com",
+  "client_id": "101409046622452812358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cooge%40blazehackerapi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
